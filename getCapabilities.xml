@@ -177,7 +177,7 @@
 				<Title>base_parana</Title>
 				<Abstract>GH:base_parana ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-51.1052839800927" miny="-26.27856921819967" maxx="-49.13211103283773" maxy="-25.59102135714454"></LatLonBoundingBox>
